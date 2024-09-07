@@ -1,0 +1,4 @@
+django
+tk
+requests
+python-decouple
